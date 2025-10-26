@@ -1,7 +1,7 @@
 # 🏢 Property Management Documentation
 
-A complete, easy‑to‑follow reference for handling **noise, nuisance, and over‑occupancy** issues in San Francisco rental properties.  
-Designed for both **landlords** and **tenants** to keep every unit compliant and peaceful.
+Complete reference for handling **noise, nuisance, and over‑occupancy** issues in San Francisco rental units.  
+Designed for both **landlords** and **tenants** to keep properties compliant and peaceful.
 
 ---
 
@@ -9,12 +9,12 @@ Designed for both **landlords** and **tenants** to keep every unit compliant and
 
 | File | Purpose |
 |------|----------|
-| **LANDLORD_GUIDE.md** | For owners and managers — procedures for documenting, warning, and resolving violations. |
-| **TENANT_GUIDE.md** | For tenants disturbed by noise or large gatherings — how to log and report issues. |
-| **LANDLORD_LOG_EXAMPLE.md** | Blank incident‑log template for property managers. |
-| **TENANT_LOG_EXAMPLE.md** | Blank noise‑log template for tenants. |
-| **NOTICE_TEMPLATE.md** | Ready‑to‑fill warning/violation notice. |
-| **HALLWAY_CAMERA_POLICY.md** | Rules on security‑camera use consistent with California privacy laws. |
+| [**LANDLORD_GUIDE.md**](./LANDLORD_GUIDE.md) | For owners/managers — procedures for documenting, warning, and resolving violations. |
+| [**TENANT_GUIDE.md**](./TENANT_GUIDE.md) | For tenants experiencing disturbance — how to log and report issues. |
+| [**LANDLORD_LOG_EXAMPLE.md**](./LANDLORD_LOG_EXAMPLE.md) | Blank incident‑log template for property managers. |
+| [**TENANT_LOG_EXAMPLE.md**](./TENANT_LOG_EXAMPLE.md) | Blank noise‑log template for tenants. |
+| [**NOTICE_TEMPLATE.md**](./NOTICE_TEMPLATE.md) | Ready‑to‑fill warning/violation notice. |
+| [**HALLWAY_CAMERA_POLICY.md**](./HALLWAY_CAMERA_POLICY.md) | Rules on camera use compliant with California privacy law. |
 
 ---
 
@@ -29,7 +29,7 @@ Designed for both **landlords** and **tenants** to keep every unit compliant and
 | Witness / Neighbor Report | Optional | 🌟 Strong | “Unit 5 also reported noise.” |
 | 311 / Police Report # | Optional | 🌟 Strong | “311‑A45873.” |
 | Video or Photo (no audio) | Landlord only | 🌟 Optional | Short clip from hallway camera. |
-| Action Taken | Landlord | 👍 Helpful | “Reminder letter sent 10‑26.” |
+| Action Taken | Landlord | 👍 Helpful | “Reminder Letter sent 10‑26.” |
 
 ---
 
@@ -46,14 +46,14 @@ Designed for both **landlords** and **tenants** to keep every unit compliant and
 ## ⚙️ Usage Rules
 
 ### Tenants
-1. Record each disturbance in a personal noise log.  
+1. Record each disturbance in your personal noise log.  
 2. Email or text management after significant events.  
-3. Keep copies for at least 6–12 months.
+3. Keep copies for 6–12 months.
 
 ### Landlords
-1. Record both your observations and tenant complaints separately.  
-2. Send written reminders or notices of violation when confirmed.  
-3. Maintain all evidence at least 3 years.  
+1. Record complaints and your own observations separately.  
+2. Send written reminders or violation notices when verified.  
+3. Keep evidence for at least 3 years.  
 
 ---
 

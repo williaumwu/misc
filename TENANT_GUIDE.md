@@ -1,59 +1,81 @@
-# 🏡 Tenant Guide – Documenting Noise or Party Disturbances
+# 🏡 Tenant Guide – Documenting Noise or Party Disturbances
 
-Simple, privacy‑safe steps for residents disturbed by loud or repeated parties.
-
----
-
-## 1. Keep a Noise Log
-Record each event with date, time, and description.
-
-| Date | Time | Description | Impact | Action |
-|------|------|-------------|---------|--------|
-| 2025‑10‑23 | 11:50 PM | Loud music, shouting from Unit 5 | Couldn’t sleep | Emailed manager |
-
-Stay factual—avoid opinions about neighbors personally.
+This guide helps residents document repeated noise or occupancy issues clearly and safely.  
+Accurate, factual logs protect your rights and help management resolve problems promptly.
 
 ---
 
-## 2. Notify Management
-Email or text the landlord after each major incident.
+## 1  Keep a Noise Log
 
-**Include:**  
-- Date / time / duration  
-- Short description  
-- Optional 311 or police report #  
-- Your contact info  
+Create or print a simple table to note each disturbance.
 
-**Subject line suggestion:**  
-> “Noise Disturbance – [Date] [Time] – [Unit #]”
+| Date | Time | Description | Impact | Reported to |
+|------|------|-------------|---------|--------------|
+| 2025‑10‑25 | 11:45 PM | Loud music from Unit 4 for ~1 hour | Couldn’t sleep | Manager |
 
----
-
-## 3. Optional Supporting Evidence
-- Short **video clips (10–30 s)** from inside your own unit showing sound levels.  
-- **No footage of others’ private areas** and **no audio recording** conversations.  
-- Save any texts or chats showing others experienced the same noise.
+**Tips**
+- Log **date, time, and what you actually heard or saw**.
+- Avoid personal opinions; record only the facts.
+- Include how it affected you (e.g., woke you, prevented sleep).
 
 ---
 
-## 4. If Noise Persists
-1. Continue your log.  
-2. File a **311** or **non‑emergency police** report.  
-3. Send incident number to management.  
-4. Keep communications civil and written.
+## 2  Notify Management
+
+Send an email or text — written communication creates a dated record.
+
+**Sample Email**
+```
+Subject: Noise Complaint – [Date/Time]
+
+Dear [Manager Name],
+
+Loud noise and gathering from [unit #] occurred around [time] on [date], lasting approx. [duration].  
+I wanted to make management aware.  
+311 report # (if applicable): [###].
+
+Thank you,  
+[Your Name / Unit #]
+```
 
 ---
 
-## 5. Privacy & Safety
-- Never confront loud tenants directly.  
-- Share complaints only with management or authorities.  
-- Keep copies for 6–12 months in case follow‑up is needed.
+## 3  Optional Supporting Evidence
+
+| Evidence | Permitted? | Notes |
+|-----------|-------------|-------|
+| Short video clips (no audio) | ✅ | Record only inside your own unit; no faces / private spaces. |
+| Photos (no faces) | ✅ | Document hallway traffic or trash after events. |
+| Audio recordings | ❌ | Illegal in CA without consent. |
+| 311 Report # | ✅ | Adds dependable third‑party confirmation. |
 
 ---
 
-**Remember:** Consistent, dated, factual reporting helps management resolve issues lawfully and restores quiet for everyone.
+## 4  If Disturbances Continue
+
+1. Continue logging each incident.  
+2. File a 311 or non‑emergency police report for persistent noise.  
+3. Include the incident number in your next email to management.  
+4. Stay polite and avoid direct confrontation.
 
 ---
 
-**Prepared by:** [Your Name / Property Management]  
-**Date:** 2025‑10‑26
+## 5  Privacy & Safety
+
+| ✅ Do | ❌ Don’t |
+|-------|----------|
+| Email management each time | Argue with noisy tenants |
+| Keep logs for 6–12 months | Post videos publicly |
+| Describe facts, not feelings | Use abusive language |
+
+---
+
+## 6  Purpose
+
+Consistent, factual documentation builds clear evidence for the property manager or Rent Board to act upon.
+
+---
+
+**Prepared by:** [Your Name / Property Manager]  
+**Last Updated:** 2025‑10‑26
+```
